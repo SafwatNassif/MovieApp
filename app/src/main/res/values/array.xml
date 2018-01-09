@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sorted_option">
+
+        <item>@string/popularity_option</item>
+        <item>@string/highrate_option</item>
+        <item>@string/favourite_option</item>
+    </string-array>
+
+    <string-array name="sorted_value">
+        <item>@string/popularity_value</item>
+        <item>@string/highrate_value</item>
+        <item>@string/favourite_value</item>
+    </string-array>
+
+
+</resources>

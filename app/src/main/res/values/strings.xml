@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Movieapp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- strings for preference screen -->
+
+    <string name="detail_activity">Details </string>
+
+    <!--string of detailsFragment-->
+    <string name="overView">OverView</string>
+
+
+    <string name="menu_setting">Setting</string>
+    <!-- strings for preference screen -->
+    <string name="sorted_by">sorted by</string>
+    <string name="sorted_key">sort order</string>
+    <string name="default_value">popularity</string>
+    <!-- strings of preference array-->
+    <string name="popularity_option">popularity</string>
+    <string name="highrate_option">high rate</string>
+    <string name="favourite_option">favourite</string>
+    <string name="popularity_value">popularity.desc</string>
+    <string name="highrate_value">vote_average.desc</string>
+    <string name="favourite_value">favourite</string>
+
+    <string name="no_item_select">No Item Selected</string>
+    <string name="reviews_text">Reviews</string>
+
+</resources>
